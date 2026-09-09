@@ -30,14 +30,13 @@ This project analyzes a retail sales dataset containing **1,987 transactions** u
 * WHERE
 * ORDER BY
 * GROUP BY
-* HAVING
-* Aggregate Functions
+* Aggregate Functions (COUNT, SUM, AVG)
 * CASE Statements
 * DISTINCT
 * LIMIT
-* Date Functions
-* Window Functions
-
+* Date & Time Functions
+* Data Cleaning
+  
 ---
 
 ## 📊 Business Questions Solved
